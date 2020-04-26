@@ -1,2 +1,2 @@
 def parrot(phrase = "Squawk!")
-  puts 
+  puts #{phr
